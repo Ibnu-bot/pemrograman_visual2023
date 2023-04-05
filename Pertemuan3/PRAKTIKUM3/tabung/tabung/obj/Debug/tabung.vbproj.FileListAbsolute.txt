@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\bin\Debug\tabung.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\tabung\tabung\obj\Debug\tabung.pdb
