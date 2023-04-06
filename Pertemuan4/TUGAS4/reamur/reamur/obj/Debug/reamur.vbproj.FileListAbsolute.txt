@@ -1,0 +1,11 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\bin\Debug\reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.vbprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\reamur\reamur\obj\Debug\reamur.pdb

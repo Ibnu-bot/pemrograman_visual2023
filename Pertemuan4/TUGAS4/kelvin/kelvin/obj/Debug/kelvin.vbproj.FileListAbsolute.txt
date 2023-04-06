@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\bin\Debug\kelvin.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\bin\Debug\kelvin.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\bin\Debug\kelvin.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\bin\Debug\kelvin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\obj\Debug\kelvin.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\obj\Debug\kelvin.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\obj\Debug\kelvin.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\obj\Debug\kelvin.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\obj\Debug\kelvin.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\kelvin\kelvin\obj\Debug\kelvin.pdb
