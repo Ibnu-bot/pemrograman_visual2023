@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\bin\Debug\praktikum select case 2.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\bin\Debug\praktikum select case 2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\bin\Debug\praktikum select case 2.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\bin\Debug\praktikum select case 2.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\obj\Debug\praktikum_select_case_2.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\obj\Debug\praktikum_select_case_2.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\obj\Debug\praktikum select case 2.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\obj\Debug\praktikum select case 2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\obj\Debug\praktikum select case 2.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\praktikum select case 2\praktikum select case 2\obj\Debug\praktikum select case 2.pdb
