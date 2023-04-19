@@ -1,0 +1,10 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\bin\Debug\if2.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.Form1.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.Resources.resources
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.vbproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\if2\if2\obj\Debug\if2.pdb
