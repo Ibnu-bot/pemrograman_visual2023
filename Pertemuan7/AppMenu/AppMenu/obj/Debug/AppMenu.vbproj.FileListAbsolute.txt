@@ -1,0 +1,13 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\AppMenu\AppMenu\bin\Debug\AppMenu.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\bin\Debug\AppMenu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\bin\Debug\AppMenu.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\bin\Debug\AppMenu.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.Form2.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.Form3.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.exe
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.xml
+C:\Users\Lenovo\Documents\Visual Studio 2015\Projects\AppMenu\AppMenu\obj\Debug\AppMenu.pdb
